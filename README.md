@@ -1,5 +1,3 @@
-# README.md
-
 ## Project Title
 **Token Vesting Tool**
 
